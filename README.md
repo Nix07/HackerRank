@@ -4,4 +4,4 @@ This repository contains solutions of Hackerrank practice problems. The codes ar
 ## Structure 
 Currently, it contains two directories :
 * Mathematics - Contains Solutions of Mathematics Practice Problems
-* Algorithms  - Cotainss Solutions of Algorithms Practice Problems
+* Algorithms  - Contains Solutions of Algorithms Practice Problems

@@ -1,5 +1,5 @@
 # HackerRank
-This repository contains solutions of Hackerrank practice problems. The codes are written in C/C++.
+This repository contains solutions of Hackerrank practice/contest problems. The codes are written in C/C++.
 
 ## Structure 
 Currently, it contains four directories :
